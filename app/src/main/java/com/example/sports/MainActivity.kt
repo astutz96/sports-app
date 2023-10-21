@@ -31,6 +31,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         setContent {
+            //test
             SportsTheme {
                 Surface {
                     SportsApp()
